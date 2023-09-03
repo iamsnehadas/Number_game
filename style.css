@@ -1,0 +1,17 @@
+html {
+    font-family: consolas;
+  }
+  body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background: rgba(218, 240, 247, 0.396);
+  }  
+  .form input[type="number"] {
+    width: 200px;
+  }
+  .lastResult {
+    color: rgb(255, 253, 253);
+    padding: 3px;
+}
