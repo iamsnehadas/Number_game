@@ -5,8 +5,13 @@ html {
     width: 50%;
     max-width: 800px;
     min-width: 480px;
-    margin: 0 auto;
+    margin: 300px;
+    padding-left: 200px;
     background-image: linear-gradient(to right, rgba(122, 19, 130, 0), rgba(242, 255, 2, 0.796));
+  }
+  .content {
+    max-width: 500px;
+    margin: auto;
   }
   .form input[type="number"] {
     width: 200px;
